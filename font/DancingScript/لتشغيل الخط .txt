@@ -1,0 +1,19 @@
+
+/* font-family: 'Dancing Script', cursive; */
+
+
+/* my font */
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600;700&display=swap');
+
+
+@font-face {
+	font-family: 'Dancing Script';
+	src: url("../font/DancingScript/DancingScript-VariableFont_wght.ttf");
+
+	src: url("../font/DancingScript/static/DancingScript-Bold.ttf");
+	src: url("../font/DancingScript/static/DancingScript-Medium.ttf");
+	src: url("../font/DancingScript/static/DancingScript-Regular.ttf");
+	src: url("../font/DancingScript/static/DancingScript-SemiBold.ttf");
+
+}

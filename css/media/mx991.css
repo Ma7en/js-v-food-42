@@ -1,0 +1,23 @@
+
+/*  */
+
+@media (max-width: 991px) {
+
+    .testi-item {
+        width: calc(50% - 30px);
+    }
+
+    .team-item {
+        width: 50%;
+    }
+
+    .team-item:not(:last-child) {
+        margin-bottom: 75px;
+    }
+    
+    /* .about-text {
+        text-align: center;
+    } */
+
+
+}
